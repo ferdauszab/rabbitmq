@@ -8,6 +8,6 @@ variable "group" {
 }
 
 
-variable "profile" {
-    description = "Which profile to use for IAM"
-}
+#variable "profile" {
+#    description = "Which profile to use for IAM"
+#}
